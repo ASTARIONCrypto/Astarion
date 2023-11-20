@@ -2,7 +2,7 @@
 
 # ASTARION deploy, mint and withdraw
 
-This code will allow you to deploy an Astarion Samrt Contract, mint it and withdraw erned fee from the Contract.
+This code will allow you to deploy an Astarion Samrt Contract, mint it and withdraw earned fee from the Contract.
 
 ## Install dependencies
 
@@ -11,7 +11,7 @@ You can install it using:
 npm i
 ```
 
-## Wallet generator
+## Smart Contract Interaction
 
 To deploy you run
 ```
