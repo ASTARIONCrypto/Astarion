@@ -1,5 +1,4 @@
 import {General} from './config.js';
-import {abi} from './data/abi.js';
 import fs from 'fs';
 import { Account, ec, json, stark, Provider, hash, constants, CallData, Contract } from "starknet";
 
@@ -19,10 +18,10 @@ try{
         // Calling the first contract
         {
         contractAddress: General.contractAddress,
-        entrypoint: "withdraw",
+        entrypoint: "send_message",
         // approve 1 wei for bridge
         calldata: CallData.compile({
-            amount: General.amounttoWithdraw,
+            message: "Hi",
           })
         }
       ]
