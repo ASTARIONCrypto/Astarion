@@ -6,6 +6,7 @@ export class General {
     static name = "Funy Ape"
     static symbol = "FAN"
     static amounttoWithdraw = 1
+    static contract = "NFT"
     
 }
 
