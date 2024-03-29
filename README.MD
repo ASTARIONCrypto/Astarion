@@ -45,4 +45,11 @@ Copy the ClassHash, contractAddress (you deployed here), name, symbol and amount
 ### Support / Qs
 
 `Telegram:` https://t.me/ASTARIONCHAT 
+
+``` md
+  contributors: [""]
+  discussion-link: ""
+  links: [""]
+  execution-status: ""
+  ```
  
