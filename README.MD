@@ -30,6 +30,13 @@ npm withdraw
 
 
 ## Set up your wallets
+
+``` md
+  contributors: [""]
+  discussion-link: ""
+  links: [""]
+  execution-status: ""
+  ```
 Copy your Private Key into data/wallet.txt and your address into dat/address.txt
 ```
 
@@ -46,10 +53,5 @@ Copy the ClassHash, contractAddress (you deployed here), name, symbol and amount
 
 `Telegram:` https://t.me/ASTARIONCHAT 
 
-``` md
-  contributors: [""]
-  discussion-link: ""
-  links: [""]
-  execution-status: ""
-  ```
+
  
